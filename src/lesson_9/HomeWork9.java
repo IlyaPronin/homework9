@@ -10,6 +10,7 @@ public class HomeWork9 {
         var Book2 = new Book("Страна чудес без тормозов и конец света", 2020, Author2);
 
         System.out.println(Book2);
+        System.out.println(Book);
 
         Book2.setPublisherYear(1999);
 
